@@ -1,6 +1,6 @@
 # Guillermo Román Moyano - QA Automation & Full Stack Developer
 
-Welcome to my GitHub! I'm Guillermo, a passionate **QA Automation** and **Full Stack Developer** with a love for technology and continuous learning. My journey has led me from **Full Stack Development** to diving deep into **QA Automation**, ensuring software reliability and quality every step of the way.
+Welcome to my GitHub! I'm Guillermo, a passionate **QA Automation** engineer and **Full Stack Developer** with a love for technology and continuous learning. My journey has led me from **Full Stack Development** to diving deep into **QA Automation**, ensuring software reliability and quality every step of the way.
 
 ## About Me
 
@@ -18,11 +18,26 @@ As I transition to **QA Automation**, I’m excited to share my projects focused
 
 ## Technologies & Tools
 
-- **Back-End**: Java, Spring Boot, Thymeleaf, MySQL
-- **QA Automation**: Selenium, JUnit, Mockito, Page Object Model, RestAssured, Postman
-- **Front-End**: Angular, React, Vue
-- **Build Tools**: Maven, Gradle
-- **Version Control**: Git, GitHub
+### Back-End:
+- ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+- ![Spring](https://img.shields.io/badge/-Spring-black?style=for-the-badge&logo=spring)
+- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+### QA Automation:
+- ![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=selenium)
+- ![JUnit](https://img.shields.io/badge/-JUnit-black?style=for-the-badge&logo=junit5)
+- ![Mockito](https://img.shields.io/badge/-Mockito-black?style=for-the-badge&logo=mockito)
+- ![RestAssured](https://img.shields.io/badge/-RestAssured-black?style=for-the-badge&logo=rest)
+- ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+
+### Front-End:
+- ![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
+- ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+- ![Vue](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=vue.js)
+
+### Build Tools:
+- ![Maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apachemaven)
+- ![Gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle)
 
 ## Projects
 
