@@ -1,25 +1,58 @@
-# Hello! I'm Guillermo! Full Stack Developer
+# Guillermo Román Moyano - QA Automation & Full Stack Developer
 
-## I´m working on update my profile... 
+Welcome to my GitHub! I'm Guillermo, a passionate **QA Automation** and **Full Stack Developer** with a love for technology and continuous learning. My journey has led me from **Full Stack Development** to diving deep into **QA Automation**, ensuring software reliability and quality every step of the way.
 
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
-## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+## About Me
 
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+I’m deeply passionate about **technology**, and I’m always eager to learn more and stay on top of the latest trends. My background includes a diverse range of experiences as a **Full Stack Developer**, **electrician**, and **dog trainer**. I thrive on solving problems and continuously improving my skills.
+
+As I transition to **QA Automation**, I’m excited to share my projects focused on improving software quality, from **API testing** to **UI automation**.
 
 ## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+- **QA Automation**: Expertise in **Selenium**, **JUnit**, **Mockito**, **Page Object Model**, and **API Testing** with **RestAssured**.
+- **Back-End**: Extensive experience in **Java**, **Spring Boot**, **Thymeleaf**, and **MySQL**.
+- **Front-End**: Proficient in **Angular**, with knowledge of **React** and **Vue**.
+- **Build Tools**: Comfortable with **Maven** and **Gradle**.
+- **Problem-Solving**: Always exploring new solutions to complex challenges.
+
+## Technologies & Tools
+
+- **Back-End**: Java, Spring Boot, Thymeleaf, MySQL
+- **QA Automation**: Selenium, JUnit, Mockito, Page Object Model, RestAssured, Postman
+- **Front-End**: Angular, React, Vue
+- **Build Tools**: Maven, Gradle
+- **Version Control**: Git, GitHub
+
+## Projects
+
+Explore my repositories to see how I apply **QA Automation** principles:
+
+- **Automated UI Testing** with **Selenium**: Implementing **Page Object Model** to create scalable and maintainable tests.
+- **API Testing** with **RestAssured**: Writing efficient and comprehensive tests for RESTful APIs.
+- **Test Automation Frameworks**: Developing reusable frameworks with **JUnit**, **Mockito**, and **Maven**.
+- **Spring Boot Applications**: Building backend services with **Spring Boot** and **MySQL**.
+
+## Contact Me
+
+I’m always open to new opportunities and collaborations in **QA Automation** and **Full Stack Development**. Let’s connect!
+
+- Email: guillermoyano2002@gmail.com
+- LinkedIn: https://www.linkedin.com/in/g-r-moyano/
 
 ## Languages
-- Inglés
-- Español
 
-## Languages
-Inglés
+- **English**: Fluent
+- **Spanish**: Native
 
 ## Hobbies
-- Dancing: ...
+
+When I’m not coding or working on technology-related projects, I enjoy:
+
+- **Learning**: I’m always looking to expand my knowledge in technology and new fields.
+- **Electronics**: As an electrician, I enjoy working with electrical systems and solving related challenges.
+- **Dog Training**: I’m passionate about training dogs and helping them build strong connections with their owners.
+- **Sociability**: I love meeting new people and building relationships.
+
+Let’s create something amazing together!
+
